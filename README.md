@@ -1,6 +1,15 @@
 # [Trojan-Horse-Hunt-in-Time-Series-Forecasting](https://www.kaggle.com/competitions/trojan-horse-hunt-in-space/overview)
-Part of the Secure Your AI series of competitions by the European Space Agency
-### European Space Agency
+#### Part of the Secure Your AI series of competitions by the European Space Agency
+#### European Space Agency
+<p align="center">
+  <img src="https://img.shields.io/badge/ESA%20Secure%20AI-Trojan%20Horse%20Hunt-blueviolet?style=for-the-badge" alt="ESA Secure AI Badge"/>
+  <img src="https://img.shields.io/badge/Time%20Series-Forecasting-green?style=for-the-badge" alt="Time Series Badge"/>
+  <img src="https://img.shields.io/badge/Kaggle-Competition-20c997?style=for-the-badge&logo=kaggle" alt="Kaggle Badge"/>
+  <img src="https://img.shields.io/github/last-commit/Ishita95-harvad/Trojan-Horse-Hunt-in-Time-Series-Forecasting?style=for-the-badge" alt="Last Commit Badge"/>
+  <img src="https://img.shields.io/github/license/Ishita95-harvad/Trojan-Horse-Hunt-in-Time-Series-Forecasting?style=for-the-badge" alt="License Badge"/>
+</p>
+
+
 
 ---
 
