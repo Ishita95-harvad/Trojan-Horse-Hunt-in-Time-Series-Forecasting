@@ -135,3 +135,4 @@ ESA AI STAR Conference    |3–5 December 2025
 Thanks to ESA, KP Labs, and the Kaggle community for advancing secure AI in space applications. Special shoutout to the organizers for making this challenge both technically rigorous and mission-relevant.
 
 -----
+![project submission card](https://github.com/Ishita95-harvad/Trojan-Horse-Hunt-in-Time-Series-Forecasting/blob/main/Copilot_20250818_155251.png)
