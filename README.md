@@ -82,6 +82,7 @@ model_id
 
 225 trigger values: 75 for each channel (channel_44, channel_45, channel_46)
 
+![submission.ipyb screenshot](https://github.com/Ishita95-harvad/Trojan-Horse-Hunt-in-Time-Series-Forecasting/blob/main/Screenshot%20(764).png)
 -----
 
 #### 🏆 Prizes
